@@ -1,17 +1,18 @@
 # hcde-410-final
-Files for HCDE410 - Assignment A2
+Files for HCDE410 - Assignment A4
 
 ```
 # A4 — Final Project
 
-**Dataset:** Impact of Ai on Students
+**Dataset:** "Study habits and artificial intelligence use among university students: A proportionally stratified survey dataset"
 
-**Source:** https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students?resource=download
+**Source:** https://data.mendeley.com/datasets/mcwb2ppdsw/1
 
-**Publisher** lavesh Jadon
+**Publisher:** Cristian Correa
 
-**License:( https://creativecommons.org/publicdomain/zero/1.0/) The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+**License:**  CC BY 4.0 licence - You can share, copy and modify this dataset so long as you give appropriate credit, provide a link to the CC BY license, and indicate if changes were made, but you may not do so in a way that suggests the rights holder has endorsed you or your use of the dataset. Note that further permission may be required for any content within the dataset that is identified as belonging to a third party. https://creativecommons.org/licenses/by/4.0/
 
-Project Summary.
-I will be analyzing the impact of AI on students based on their demographic and how their demographic correlates to how they use AI.
+**Dataset Reference:** Correa, Cristian (2026), “Study habits and artificial intelligence use among university students: A proportionally stratified survey dataset”, Mendeley Data, V1, doi: 10.17632/mcwb2ppdsw.1
+
+**Project Summary:**
+For this project I will be analyzing the relationship between student's self reported frequency use of AI for studying and cumulative GPA. I will also analyze if there are other factors that may affect a student's cumulative GPA based on this dataset.
